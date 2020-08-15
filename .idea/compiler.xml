@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="org.hyperledger.fabric.samples.Authentication.main" target="1.8" />
+      <module name="org.hyperledger.fabric.samples.Authentication.test" target="1.8" />
+      <module name="org.hyperledger.fabric.samples.java-chaincode-bootstrap.main" target="1.8" />
+      <module name="org.hyperledger.fabric.samples.java-chaincode-bootstrap.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

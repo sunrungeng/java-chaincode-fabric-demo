@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b47afcc8-e13f-477a-b9f6-a96b28d97dec" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/authentication/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="287">
+              <caret line="61" column="11" selection-start-line="61" selection-start-column="11" selection-end-line="61" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/authentication/Authentication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="980">
+              <caret line="198" column="21" lean-forward="true" selection-start-line="198" selection-start-column="21" selection-end-line="198" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Start</find>
+      <find>chaincode</find>
+      <find>SM9RatePairingMap</find>
+      <find>SM9Pairing</find>
+      <find>create</find>
+      <find>cn.</find>
+      <find>cn.edu.bit.</find>
+      <find>cn</find>
+      <find>checkstyle</find>
+      <find>checkstyleMain</find>
+      <find>java-</find>
+      <find>chaincode-</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>org.hyperledger.fabric.samples.</replace>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/util/Hex.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/test/masterpublickey/KGCLevel2Invoke.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/gm/sm9/masterpublickey/MasterPublicKeyRequest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/gm/sm9/masterpublickey/MasterPublicKeyHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/authentication/HalloController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/test/masterpublickey/KGCLevel0Get.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/gm/sm9/pairing/SM9RatePairingMap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/gm/sm9/SM9Curve.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/gm/sm3/SM3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/gm/sm4/SM4.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/gm/sm9/KGCWithStandardTestKey.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/test/masterpublickey/KGCLevel0Set.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/gm/sm9/SM9.java" />
+        <option value="$PROJECT_DIR$/settings.gradle" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/test/java/org/hyperledger/fabric/samples/fabcar/FabCarTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/authentication/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/authentication/Authentication.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\.m2\repository" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Authentication" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Authentication" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="CatdeaLogs" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1597483701619" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.hyperledger.fabric.samples" />
+      <recent name="org.hyperledger.fabric.samples.authentication" />
+      <recent name="org.hyperledger.fabric.samples.util" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\chaincode\auth_chaincode\src\main\java\org\hyperledger\fabric\samples" />
+      <recent name="D:\code\chaincode\auth_chaincode\libs" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FabCarTest.tes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="org.hyperledger.fabric.samples.java-chaincode-bootstrap.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.hyperledger.fabric.samples.fabcar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.hyperledger.fabric.samples.fabcar" />
+      <option name="MAIN_CLASS_NAME" value="org.hyperledger.fabric.samples.fabcar.FabCarTest" />
+      <option name="METHOD_NAME" value="tes" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FabCarTest.tes" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b47afcc8-e13f-477a-b9f6-a96b28d97dec" name="Default Changelist" comment="" />
+      <created>1596769079585</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596769079585</updated>
+      <workItem from="1596769082316" duration="5826000" />
+      <workItem from="1596784438419" duration="16941000" />
+      <workItem from="1596987731411" duration="20621000" />
+      <workItem from="1597280865638" duration="64000" />
+      <workItem from="1597280945631" duration="8744000" />
+      <workItem from="1597338125037" duration="9999000" />
+      <workItem from="1597420300566" duration="6153000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="FabCarTest_tes - 2020.08.13 at 17h 23m 13s.xml">
+      <configuration name="FabCarTest.tes" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FabCarTest_tes - 2020.08.13 at 17h 26m 54s.xml">
+      <configuration name="FabCarTest.tes" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="68348000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Designer" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.24570815" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Sequence" order="1" weight="0.32960895" />
+      <window_info anchor="bottom" id="Docker" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Statistic" order="4" />
+      <window_info anchor="bottom" id="Database Changes" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32924107" />
+      <window_info anchor="bottom" id="Build" order="8" weight="0.32924107" />
+      <window_info anchor="bottom" id="Message" order="9" />
+      <window_info anchor="bottom" id="Find" order="10" weight="0.32924107" />
+      <window_info anchor="bottom" id="Run" order="11" weight="0.43861607" />
+      <window_info anchor="bottom" id="Debug" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="13" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="14" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="15" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.3299356" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/gm/sm9/ResultKeyExchange.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/gm/sm9/SM9WithStandardTestKey.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/gm/sm9/MasterKeyPair.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/test/masterpublickey/KGCLevel2Set.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/test/ServiceDomainAUser.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/gm/sm9/masterpublickey/MasterPublicKeyRequest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/gm/sm9/masterpublickey/MasterPublicKeyHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/gm/GMProvider.java" />
+    <entry file="jar://$PROJECT_DIR$/libs/jpbc-api-2.0.0.jar!/it/unisa/dia/gas/jpbc/Element.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/.gradle/caches/modules-2/files-2.1/org.hyperledger.fabric-chaincode-java/fabric-chaincode-shim/1.4.3/9602cceebc057c0721b8f3846017cace26d36332/fabric-chaincode-shim-1.4.3-sources.jar!/org/hyperledger/fabric/contract/annotation/Contact.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/authentication/HalloController.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/test/masterpublickey/KGCLevel0Get.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/test/masterpublickey/KGCLevel0Invoke.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/gm/sm9/pairing/SM9RatePairingMap.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/gm/sm3/SM3.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/gm/sm4/SM4.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/gm/sm9/KGCWithStandardTestKey.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/test/SM9Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/test/masterpublickey/KGCLevel1Invoke.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/test/masterpublickey/KGCLevel2Invoke.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/test/masterpublickey/KGCLevel1Get.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/test/masterpublickey/KGCLevel1Set.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/test/ServiceDomainA.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/test/masterpublickey/KGCLevel2Get.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/test/CrossServiceDomain.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/test/ServiceDomainB.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/test/masterpublickey/KGCLevel0Set.java" />
+    <entry file="file://$PROJECT_DIR$/config/checkstyle/suppressions.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/.gradle/caches/modules-2/files-2.1/org.hyperledger.fabric-chaincode-java/fabric-chaincode-shim/1.4.3/9602cceebc057c0721b8f3846017cace26d36332/fabric-chaincode-shim-1.4.3-sources.jar!/org/hyperledger/fabric/contract/annotation/Transaction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="30" column="16" lean-forward="true" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/checkstyle/checkstyle.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1456">
+          <caret line="52" column="32" selection-start-line="52" selection-start-column="32" selection-end-line="52" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/util/Hex.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/gm/sm9/pairing/SM9Pairing.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/gm/sm9/KGC.java" />
+    <entry file="jar://$PROJECT_DIR$/libs/jpbc-plaf-2.0.0.jar!/it/unisa/dia/gas/plaf/jpbc/field/base/AbstractPointElement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/jpbc-plaf-2.0.0.jar!/it/unisa/dia/gas/plaf/jpbc/field/curve/CurveElement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="12" column="86" selection-start-line="12" selection-start-column="86" selection-end-line="12" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/gm/sm9/MasterPublicKey.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/gm/sm9/SM9.java" />
+    <entry file="jar://D:/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/bbb63ca253b483da8ee53a50374593923e3de2e2/gson-2.7-sources.jar!/com/google/gson/JsonObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/gm/sm9/SM9Curve.java" />
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="23" column="14" lean-forward="true" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/2.28.2/8322b59516491570931c086329654ef841e61811/mockito-core-2.28.2-sources.jar!/org/mockito/Mockito.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="1815" column="24" selection-start-line="1815" selection-start-column="24" selection-end-line="1815" selection-end-column="24" />
+          <folding>
+            <element signature="e#86920#86921#0" expanded="true" />
+            <element signature="e#86976#86977#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/fabcar/Car.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/fabcar/FabCar.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/hyperledger/fabric/samples/fabcar/FabCarTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/hyperledger/fabric/samples/fabcar/CarTest.java" />
+    <entry file="jar://D:/.gradle/caches/modules-2/files-2.1/com.owlike/genson/1.5/6876abb3f2e6bbacc3b78d1bc223aa0b907cafdd/genson-1.5-sources.jar!/com/owlike/genson/Genson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="164" column="16" selection-start-line="164" selection-start-column="16" selection-end-line="164" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/authentication/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="61" column="11" selection-start-line="61" selection-start-column="11" selection-end-line="61" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1015" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/authentication/Authentication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="980">
+          <caret line="198" column="21" lean-forward="true" selection-start-line="198" selection-start-column="21" selection-end-line="198" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>org.hyperledger.fabric.samples.java-chaincode-bootstrap</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: com.damnhandy:handy-uri-templates:2.1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

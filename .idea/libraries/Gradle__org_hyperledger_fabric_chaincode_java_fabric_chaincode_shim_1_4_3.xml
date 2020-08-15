@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.hyperledger.fabric-chaincode-java:fabric-chaincode-shim:1.4.3">
+    <CLASSES>
+      <root url="jar://D:/.gradle/caches/modules-2/files-2.1/org.hyperledger.fabric-chaincode-java/fabric-chaincode-shim/1.4.3/f39e59322e9e7dd61d49efaf0d0521b9bf7c1cf6/fabric-chaincode-shim-1.4.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/.gradle/caches/modules-2/files-2.1/org.hyperledger.fabric-chaincode-java/fabric-chaincode-shim/1.4.3/9602cceebc057c0721b8f3846017cace26d36332/fabric-chaincode-shim-1.4.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
