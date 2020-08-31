@@ -35,6 +35,9 @@ public final class User {
     @Property()
     private final String publicParameter;
 
+    @Property()
+    private final String addTime;
+
     public String getBelongto() {
         return belongto;
     }
@@ -54,6 +57,9 @@ public final class User {
     public int getDeviceCount() {
         return deviceCount;
     }
+    public String getAddTime() {
+        return addTime;
+    }
 
     public String getPublicParameter() {
         return publicParameter;
@@ -61,13 +67,15 @@ public final class User {
 
     public User(@JsonProperty("belongto") final String belongto, @JsonProperty("identity") final String identity,
                 @JsonProperty("zone") final String zone, @JsonProperty("idCount") final int idCount,
-                @JsonProperty("deviceCount") final int deviceCount, @JsonProperty("publicParameter") final String publicParameter) {
+                @JsonProperty("deviceCount") final int deviceCount, @JsonProperty("publicParameter") final String publicParameter,
+                @JsonProperty("addTime") String addTime) {
         this.belongto = belongto;
         this.identity = identity;
         this.zone = zone;
         this.idCount = idCount;
         this.deviceCount = deviceCount;
         this.publicParameter = publicParameter;
+        this.addTime = addTime;
     }
 
     @Override
@@ -80,11 +88,12 @@ public final class User {
                 Objects.equals(belongto, user.belongto) &&
                 Objects.equals(identity, user.identity) &&
                 Objects.equals(zone, user.zone) &&
-                Objects.equals(publicParameter, user.publicParameter);
+                Objects.equals(publicParameter, user.publicParameter) &&
+                Objects.equals(addTime, user.addTime);
     }
 
     @Override
     public int hashCode() {
-        return Objects.hash(belongto, identity, zone, idCount, deviceCount, publicParameter);
+        return Objects.hash(belongto, identity, zone, idCount, deviceCount, publicParameter, addTime);
     }
 }
