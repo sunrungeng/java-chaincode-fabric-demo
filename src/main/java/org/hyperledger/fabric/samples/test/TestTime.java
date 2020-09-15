@@ -1,11 +1,15 @@
 package org.hyperledger.fabric.samples.test;
 
 import com.alibaba.fastjson.JSONObject;
-import org.hyperledger.fabric.samples.util.Sha256Util;
+
+import java.util.Date;
 
 public class TestTime {
 
     public static void main(String[] args) {
+
+        Date date = new Date();
+        System.out.println(date.toString());
 //        Genson genson = new Genson();
 //        Date date = new Date();
 //        String addTime = date.toString();
@@ -19,9 +23,9 @@ public class TestTime {
 //            String key = user.getIdentity();
 //            System.out.println(key);
 //        }
-        String message = "{\"action\":\"open\",\"accesserIdentity\":\"tsinghua.edu.cn\",\"accessedDevice\":\"watch.tsinghua.edu.cn\",\"time\":\"1599026889379\"}";
-        String result = Sha256Util.getSHA256(message);
-        System.out.println(result);
+//        String message = "{\"action\":\"open\",\"accesserIdentity\":\"tsinghua.edu.cn\",\"accessedDevice\":\"watch.tsinghua.edu.cn\",\"time\":\"1599026889379\"}";
+//        String result = Sha256Util.getSHA256(message);
+//        System.out.println(result);
 //        genInfoJson();
 
     }
